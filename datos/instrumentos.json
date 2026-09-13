@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "nombre": "Guitarra",
+    "familia": "Cuerda",
+    "origen": "España",
+    "descripcion": "Instrumento de cuerda pulsada compuesto por una caja de resonancia y un mástil.",
+    "disponible": true
+  },
+  {
+    "id": 2,
+    "nombre": "Piano",
+    "familia": "Cuerda percutida",
+    "origen": "Italia",
+    "descripcion": "Instrumento musical clasificado como de teclado y de cuerdas percutidas.",
+    "disponible": true
+  },
+  {
+    "id": 3,
+    "nombre": "Batería",
+    "familia": "Percusión",
+    "origen": "Estados Unidos",
+    "descripcion": "Conjunto de aerófonos y membranófonos acoplados para ser tocados por un solo músico.",
+    "disponible": false
+  },
+  {
+    "id": 4,
+    "nombre": "Flauta",
+    "familia": "Viento",
+    "origen": "Europa",
+    "descripcion": "Instrumento de viento de madera o metal, caracterizado por su sonido dulce y agudo.",
+    "disponible": true
+  },
+  {
+    "id": 5,
+    "nombre": "Armónica",
+    "familia": "Viento",
+    "origen": "Alemania",
+    "descripcion": "Instrumento de viento pequeño que produce sonidos al soplar o aspirar aire.",
+    "disponible": true
+  }
+]
